@@ -22,7 +22,7 @@ This project aims to predict crystal structures using machine learning and data 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TilakSanghvi/Crystal_Structure_Prediction.git
+    git clone https://github.com/pranshu03agg/Crystal_Structure_Prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
